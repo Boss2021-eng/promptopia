@@ -1,3 +1,10 @@
+### Promptopia is a full stack web application aimed at storing best prompts be used on chatgpt
+
+### Vercel Link : https://promptopia-mcryq5b73-boss2021-eng.vercel.app/
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
