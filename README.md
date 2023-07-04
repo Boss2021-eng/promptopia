@@ -1,6 +1,7 @@
-### Promptopia is a full stack web application aimed at storing best prompts be used on chatgpt
+### Promptopia is a full stack web application aimed at storing best prompts be used on chatgpt.
+users can view, create, edit and delete post
 
-### Vercel Link : https://promptopia-mcryq5b73-boss2021-eng.vercel.app/
+### Vercel Link : https://promptopia-alpha-teal.vercel.app/
 
 
 
